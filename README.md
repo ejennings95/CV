@@ -5,13 +5,11 @@
 
 My strengths lie within two main areas; logic-based methodology and interpersonal skills.
 
-I am from a none-coding background. I went to the University of Warwick to study politics with a philosophical focus. After graduating with a year abroad in Melbourne, I joined a media company with a financial background. I was to join the sales team – I always thought that understanding sales is important at every level of every job.
+I am from a none-coding background. I went to the University of Warwick to study politics with a philosophical focus. After graduating with a year abroad in Melbourne, I joined a media company specialising in finance as part of the sales team – I always thought that understanding sales is important at every level of every job.
 
-While I realised that I may be able to make a successful career in sales, I wanted more. I was looking for something more technical and stimulating. I was missing the love of the job - this is what drives me.
+Whilst I realised that I may be able to make a successful career in sales, I wanted more. I needed something more technical and stimulating. I began to teach myself the basics of coding during my lunch breaks. I was drawn to the logical structure of its foundations through to the opportunity to be creative and show your personality in how and why you write the code. The issue was I had no experience in coding… yet.
 
-I began learning to program during my lunch at work and in my free time. I was drawn to the logical structure of its foundations through to the opportunity to be creative and show your personality in how and why you write the code. The issue was I had no experience in coding… yet.
-
-I managed to achieve a spot on one of the most sought-after development bootcamps - Makers Academy. I am relishing the chance to improve my technical abilities through programming. This has provided me with the opportunity to achieve the job I have spent the last few years of my life pursuing. One day I wish to work in a relationship focused aspect of programming. This would allow me to combine what I have always believed my strengths to be.
+I managed to achieve a spot on one of the most sought-after development bootcamps - Makers Academy. I relished the chance to improve my technical abilities through programming. This has provided me with the opportunity to achieve the job I have spent the last few years of my life pursuing. My aim is to work in a relationship focused aspect of programming to combine what I have always believed my strengths to be.
 
 Most importantly it will allow me to have the career I have been waiting for.
 
@@ -39,10 +37,6 @@ Sales is all about relationships. Throughout my time in sales I would never try 
 #### Team player
 
 During my time at Infopro Digital I was promoted to senior position within my team. The idea of this was to create a bridge between the team and management. I was given this opportunity to help the newest members. I was chosen as I had accomplished my targets while at the company and was seen as accessible to the whole team. I was there to offer advice and positive encouragement. I also occasionally lead the team strategy meetings where we could brainstorm and help each other.
-
-#### Finisher-completer
-
-I enjoy the satisfaction of successful project work. This has been seen throughout my life, whether it is an essay, an event or even planning a holiday. I like the fact that it is always slightly different than the last one and then an overwhelming sense of achievement when it comes to fruition.
 
 ## Projects
 
@@ -114,7 +108,7 @@ A 16-week intensive development bootcamp (10% acceptance rate) emphasising:
 - World travel
 
 ## links
-- Blog (Started during my Makers pre-course): TBC
-- Codewars: https://www.codewars.com/users/Jenno1995
-- Github: ejennings95
-- LinkedIn: https://www.linkedin.com/in/elliot-jennings/
+- [Blog](https://medium.com/@ElliotPlusKatie)
+- [Codewars](https://www.codewars.com/users/Jenno1995)
+- [Github](https://github.com/ejennings95)
+- [LinkedIn](https://www.linkedin.com/in/elliot-jennings/)
