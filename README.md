@@ -11,18 +11,17 @@ Whilst I realised that I may be able to make a successful career in sales, I wan
 
 I managed to achieve a spot on one of the most sought-after development bootcamps - Makers Academy. I relished the chance to improve my technical abilities through programming. This has provided me with the opportunity to achieve the job I have spent the last few years of my life pursuing. My aim is to work in a relationship focused aspect of programming to combine what I have always believed my strengths to be.
 
-Most importantly it will allow me to have the career I have been waiting for.
-
+Most importantly it will allow me to have the career I have been working for.
 
 ## Projects
 
 | Name                                                                 | Description | Technologies                      |
 |----------------------------------------------------------------------|-------------|-----------------------------------|
-|[Jungl-Book](https://github.com/ejennings95/Acebook-Simian-Sinister)  |  This is a clone of facebook. Here you can signup with a profile picture and post to the feed. My team decided to take a jungle theme (with a live stream of jungle in the background) to make the project fun while rewarding. |   Rails, RSpec/Capybara, Postgres with ActiveRecord, HTML, CSS            |
 |   [Bank](https://github.com/ejennings95/Bank)                        |  This was a mock tech test to create a program based on a bank account. I focused on TDD and encapsulation for this. |       Ruby, Rspec                 |
-| [Boris Bikes](https://github.com/ejennings95/Boris-bikes-javascript) |  I wrote this based on a previous i had done to help  with my learning of Javascript and also follow the principles of coding taught at makers |     JavaScript, Jasmine           |
-|   [MakersBnB](https://github.com/ejennings95/makers_bnb) | This was a team project to clone AirBnB, my team was able to plan our time well to get out a fully functional clone |  Ruby, Sinatra, Rspec, Postgres, HTML, Bootstrap             |
-
+| [Boris Bikes](https://github.com/ejennings95/Boris-bikes-javascript) |  I wrote this based on a previous project I had done to help with my learning of Javascript. This also allowed me to focus on the principles of coding taught at Makers. |     JavaScript, Jasmine           |
+|[Hoot!](https://github.com/wise-social2/Hoot-App/tree/master)  | My team created an app providing an intermediary for young and old to share time and experiences together in an attempt to combat loneliness in the elder generation. | Java, Android studios, Firebase (Auth, Storage, Real-time database), Expresso, Jenkins |
+|[Jungl-Book](https://github.com/ejennings95/Acebook-Simian-Sinister)  |  This is a clone of facebook. Here you can signup with a profile picture and post to the feed. My team decided to take a jungle theme (with a live stream of jungle in the background) to make the project fun while rewarding. |   Rails, RSpec/Capybara, Postgres with ActiveRecord, HTML, CSS            |
+|   [MakersBnB](https://github.com/ejennings95/makers_bnb) | This was a team project to clone AirBnB, my team was able to plan our time well to get out a fully functional clone. |  Ruby, Sinatra, Rspec, Postgres, HTML, Bootstrap             |
 
 ## Skills
 
@@ -30,7 +29,7 @@ Most importantly it will allow me to have the career I have been waiting for.
 
 This comes down to being well organised and in control of your time.
 
-With one  week before my  first big event at Infopro Digital there was 12 K to secure from clients. I had spent time cultivating leads and speaking to my prospects and subsequently knew how would still be sold. This calm approach under pressure meant we hit target without panic.
+With one  week before my  first big event at Infopro Digital there was 12 K to secure from clients. I had spent time cultivating leads and speaking to my prospects and subsequently knew how much would still be sold. This calm approach under pressure meant we hit target without panic.
 
 #### Analytical thinker
 
