@@ -1,4 +1,4 @@
-| [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Links](#links) |
 
 ## Elliot Jennings
 
